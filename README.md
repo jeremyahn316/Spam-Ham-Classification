@@ -2,7 +2,7 @@
 
 This project was created as a part of Data 100: Principles and Techniques of Data Science using Python's Pandas and Scikit-Learn libraries and Jupyter Notebook.
 
-In this project, created a classifier that distinguishes spam (junk or commercial or bulk) emails from ham (non-spam) emails.
+In this project, created a logistic regression classifier that distinguishes spam (junk or commercial or bulk) emails from ham (non-spam) emails using over 8000 training emails. This model later achieved an accuracy of 95% when tested on 1000 emails.
 
 The main objective of this project is to work and understand: 
 
